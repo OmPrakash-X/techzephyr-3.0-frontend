@@ -10,7 +10,6 @@ import { Experience } from "./components/Experience";
 import { UI } from "./components/UI";
 import Carousel from "./pages/Carousel";
 import Loaders from "./pages/Loaders";
-import Ripple from "./pages/Ripple ";
 
 const App = () => {
   const [isLoading, setIsLoading] = useState(true);
